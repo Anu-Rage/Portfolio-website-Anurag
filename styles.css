@@ -148,3 +148,17 @@ hr{
     color:grey;
 }
 
+@media (max-width: 650px) {
+    .rightsection{
+        display: none;
+    }
+  }
+
+@media(max-width:450px){
+    .right ul{
+        justify-content: space-between;
+    }
+    .prob{
+        display: none;
+    }
+}
