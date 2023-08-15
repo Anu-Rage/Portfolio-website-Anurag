@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background-color:#35155D;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+}
+
+nav{
+    height:100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #512B81;
+    position:sticky;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+
+.left{
+    font-size: 1.75rem;
+}
+
+.firstsection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:23px 0;
+}
+
+.leftsection {
+    width:30%;
+    font-size: 2rem;
+}
+
+.leftsection div{
+    width:30%;
+    margin:20px 0;
+}
+
+.rightsection{
+    width:30%;
+}
+
+img{
+    width:130%;
+    margin-top: 23px;
+}
+
+ul li a{
+    text-decoration: none;
+    color:azure;
+}
+
+ul li a:hover{
+    color:red;
+    font-size:1.05rem;
+}
+
+hr{
+    border: 0;
+    background-color: azure;
+    height:0.5px;
+    margin: 50px 100px;
+}
+
+.jod{
+    color:#4477CE;
+    font-size: 3rem;
+}
+
+#element{
+    color:#4477CE;
+}
+
+.text1{
+    color: grey;
+    margin-left:50px;
+    font-weight: 400;
+}
+
+.text2{
+    margin-left:50px;
+    font-weight: 500;
+}
+
+.carouselsection{
+    margin:100px 100px;
+}
+
+.exp{
+    text-align: center;
+    color:grey;
+}
+
+.logo{
+    width:100px;
+    height:70px;
+    padding-bottom: 15px;
+}
+
+.aboutheading{
+    margin-left: 50px;
+}
+
+.accordion{
+    width:90%;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.u1{
+    background-color: #8CABFF;
+}
+
+.footer-content{
+    text-align: center;
+    
+}
+
+.social-icons{
+    display: flex;
+    justify-content: center;
+    margin:30px 30px;
+}
+
+.social-icons li{
+    list-style: none;
+    margin:30px 30px;
+}
+
+.container{
+    text-align: center;
+}
+
+.ut{
+    color:grey;
+}
+
